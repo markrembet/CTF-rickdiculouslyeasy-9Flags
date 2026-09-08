@@ -88,7 +88,7 @@ The complete professional report (English version with screenshots) is available
 **[Download PDF Report (English)](./report/Security_Assessment_Report_RickdiculouslyEasy_EN.pdf)**
 
 > Also available in Indonesian:  
-> [Laporan Pengujian Keamanan (ID)](./report/Laporan_Pengujian_Keamanan_RickdiculouslyEasy_Mark_Rembet.pdf)
+> [Laporan Pengujian Keamanan (ID)](./report/Laporan_Pengujian_Keamanan_RickdiculouslyEasy_ID.pdf)
 
 The report includes:
 - Detailed step-by-step methodology
