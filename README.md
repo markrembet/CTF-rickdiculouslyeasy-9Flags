@@ -1,7 +1,6 @@
 # CTF - VM RickdiculouslyEasy 9 Flags
 
 **Professional Security Assessment Report**  
-**Exam 1 | CEH BP Weekend July 2026**
 
 [![Flags](https://img.shields.io/badge/Flags-9%2F9-success)](./report/)
 [![Points](https://img.shields.io/badge/Points-130%2F130-blue)](./report/)
