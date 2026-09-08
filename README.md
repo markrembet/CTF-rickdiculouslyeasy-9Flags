@@ -1,4 +1,4 @@
-# CEH – VM RickdiculouslyEasy Write-up
+# CTF - VM RickdiculouslyEasy 9 Flags
 
 **Professional Security Assessment Report**  
 **Exam 1 | CEH BP Weekend July 2026**
@@ -126,7 +126,6 @@ This write-up and report were created **for educational purposes only** as part 
 ## Author
 
 **Mark Delano Rembet**  
-CEH BP Weekend – July 2026
 
 ---
 
