@@ -20,7 +20,6 @@ The machine is a beginner-level *boot-to-root* CTF themed around *Rick and Morty
 | Item              | Detail                          |
 |-------------------|---------------------------------|
 | **Author**        | Mark Delano Rembet              |
-| **Class**         | CEH – 04 July 2026              |
 | **Target**        | RickdiculouslyEasy (VulnHub)    |
 | **OS**            | Fedora Server                   |
 | **Total Flags**   | 9 / 9                           |
