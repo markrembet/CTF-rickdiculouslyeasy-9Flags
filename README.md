@@ -85,7 +85,7 @@ The machine is a beginner-level *boot-to-root* CTF themed around *Rick and Morty
 
 The complete professional report (English version with screenshots) is available here:
 
-**[Download PDF Report (English)](./report/Security_Assessment_Report_RickdiculouslyEasy_Mark_Rembet_EN.pdf)**
+**[Download PDF Report (English)](./report/Security_Assessment_Report_RickdiculouslyEasy_EN.pdf)**
 
 > Also available in Indonesian:  
 > [Laporan Pengujian Keamanan (ID)](./report/Laporan_Pengujian_Keamanan_RickdiculouslyEasy_Mark_Rembet.pdf)
