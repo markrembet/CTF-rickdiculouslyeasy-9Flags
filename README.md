@@ -105,8 +105,8 @@ The report includes:
 .
 ├── README.md
 └── report/
-    ├── Security_Assessment_Report_RickdiculouslyEasy_Mark_Rembet_EN.pdf   # English (recommended)
-    └── Laporan_Pengujian_Keamanan_RickdiculouslyEasy_Mark_Rembet.pdf      # Indonesian
+    ├── Security_Assessment_Report_RickdiculouslyEasyEN.pdf   # English (recommended)
+    └── Laporan_Pengujian_Keamanan_RickdiculouslyEasy.pdf      # Indonesian
 ```
 
 ---
